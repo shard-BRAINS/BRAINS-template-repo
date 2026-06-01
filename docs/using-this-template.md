@@ -19,7 +19,7 @@ Two paths. Pick whichever fits.
 
 Copy these files into the existing repo, then PR:
 
-```
+```text
 .github/workflows/scorecard.yml
 .github/workflows/codeql.yml
 .github/workflows/trivy.yml
