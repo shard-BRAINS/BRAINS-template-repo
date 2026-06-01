@@ -1,8 +1,8 @@
 # BRAINS template repo
 
-This is the starter for every new BRAINS repository. It ships the security, accessibility, and readability checks BRAINS commits to on its own work.
+This is the starter for every new BRAINS repo. It ships the same checks we run on our own code: security, access, and readable prose.
 
-> **Why this exists.** BRAINS Certified holds AI systems to standards of safety, accessibility, and neuro-affirming design. We hold our own code to the same standards. This template makes that the default, not an aspiration.
+> **Why this exists.** BRAINS Certified scores AI tools on safety, access, and inclusive design. We hold our own code to the same bar. This template makes that the default, not a goal.
 
 ## What you get
 
