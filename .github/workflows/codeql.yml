@@ -22,9 +22,12 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - language: javascript-typescript
-            build-mode: none
+          # Template ships Python helper scripts + GitHub Actions workflows only.
+          # JS/TS-bearing repos that inherit from this template should ADD a
+          # `javascript-typescript` entry to this matrix after copying.
           - language: python
+            build-mode: none
+          - language: actions
             build-mode: none
 
     steps:

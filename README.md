@@ -30,7 +30,7 @@ See [docs/using-this-template.md](docs/using-this-template.md) for the full inhe
 
 After cloning, replace this section with your own README. Keep the structure below — every BRAINS README starts with a plain-English lead and a clear "what next" section.
 
-```
+```markdown
 # [PROJECT NAME]
 
 [ONE-LINE DESCRIPTION in plain English. Aim for Grade 8 reading level.
