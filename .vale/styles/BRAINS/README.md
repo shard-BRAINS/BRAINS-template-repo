@@ -1,3 +1,4 @@
+<!-- vale off -->
 # BRAINS Vale rule pack
 
 Mechanical enforcement of the BRAINS Brand & Visual Identity Guidelines v1.0 (May 2026) in CI.

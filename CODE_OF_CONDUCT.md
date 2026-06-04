@@ -13,8 +13,8 @@ BRAINS exists because mainstream technology was not built for or with neurodiver
 
 ## What we will not tolerate
 
-- Slurs, mockery, or jokes at the expense of neurodivergent people, disabled people, or any group.
-- Deficit framing as default voice: "suffers from," "high-functioning," "special needs," and similar.
+- Slurs, mockery, or jokes at the expense of neurodivergent people, people with disabilities, or any group.
+- Deficit framing as the default voice — describing neurodivergence as an affliction to be cured, or support as a shortfall.
 - Demanding eye contact, real-time replies, in-person meetings, or any form of communication as a test of seriousness.
 - Doxxing, harassment, sustained personal hostility, or coordinated pile-ons.
 - Sexualised attention or contact that is unwelcome.

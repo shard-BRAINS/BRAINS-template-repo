@@ -1,0 +1,5 @@
+
+# Vale: downloaded style packages (synced via `vale sync` in CI)
+.vale/styles/write-good/
+.vale/styles/alex/
+.vale/styles/RedHat/

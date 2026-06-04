@@ -57,7 +57,7 @@ Use the skip marker sparingly. Every skip is a small admission that the doc is n
 
 ## Vale rule pack
 
-The `.vale/styles/BRAINS/` rule pack encodes the BRAINS brand guidelines mechanically: protected phrases, the Do/Don't language table, deficit-framing detection, banned metaphors (puzzle pieces), and brand capitalisation. Updating the brand guidelines means updating these YAML files. The skill `brains-brand` is the editorial source of truth; the Vale rules are the CI enforcement.
+The `.vale/styles/BRAINS/` rule pack encodes the BRAINS brand guidelines mechanically: protected phrases, the Do/Don't language table, deficit-framing detection, banned metaphors (the puzzle-piece motif), and brand capitalisation. Updating the brand guidelines means updating these YAML files. The skill `brains-brand` is the editorial source of truth; the Vale rules are the CI enforcement.
 
 ## When you outgrow the template
 
